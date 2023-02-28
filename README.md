@@ -20,6 +20,7 @@ At the end of the check, the values of the dictionary is extracted and same then
 The password strength is calculated based on the number of True and the corresponding strength as well as the analysis is printed out.
 
 Example of such analysis is shown below:
+
 Enter Password: Admin12
     ==== Password Analysis ==== 
     Length: 7
