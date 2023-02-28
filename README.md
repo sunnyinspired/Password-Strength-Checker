@@ -5,8 +5,8 @@ Basically, the program checks for the following:
 2. Number: must contain a number
 3. UpperCase: must contain an uppercase character.
 
-HOW IT WORKS
-------------------
+<h3>HOW IT WORKS</h3>
+
 The program prompts the user for password input and when the password is supplied, it checks it for the above requirements.
 It does the check using the following functions:
 - checkLength()
@@ -21,10 +21,5 @@ The password strength is calculated based on the number of True and the correspo
 
 Example of such analysis is shown below:
 
-Enter Password: Admin12
-    ==== Password Analysis ==== 
-    Length: 7
-    Numbers: True
-    UpperCase: True
-    Strength: 67%
-    Conclusion: Poor Password
+<img width="315" alt="Screenshot 2023-02-28 at 9 09 19 PM" src="https://user-images.githubusercontent.com/48632180/221967149-e18da51a-7e46-4286-a845-d3d2c7b65c6e.png">
+
